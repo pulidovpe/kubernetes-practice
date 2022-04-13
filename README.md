@@ -5,3 +5,7 @@
 
 [Documentación de Minikube](https://minikube.sigs.k8s.io/docs/)
 
+- Configurando un cluster Kind con Nginx e Ingress usando Terraform y Helm. Kind es una herramienta para ejecutar un cluster Kubernetes de manera local usando contenedores Docker.
+
+
+[Documentación de Kind](https://kind.sigs.k8s.io/)
